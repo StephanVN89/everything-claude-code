@@ -219,6 +219,7 @@
       "description": "Security review and security-focused framework guidance.",
       "paths": [
         "skills/django-security",
+        "skills/end-to-end-security",
         "skills/laravel-security",
         "skills/perl-security",
         "skills/security-review",

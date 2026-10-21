@@ -404,6 +404,14 @@
       ]
     },
     {
+      "id": "skill:end-to-end-security",
+      "family": "skill",
+      "description": "Layered security strategy from front end to data, including identity proofing for onboarding.",
+      "modules": [
+        "security"
+      ]
+    },
+    {
       "id": "skill:deep-research",
       "family": "skill",
       "description": "Deep research and investigation workflows.",
